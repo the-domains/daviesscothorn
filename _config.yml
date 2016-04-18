@@ -1,0 +1,28 @@
+name: daviesscothorn
+favicon: null
+layout_spectrum: 0.24940768582746387
+typography_spectrum: 0.8813972282223403
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.592195073608309
+  lightness: 0.4931622534058988
+  saturation: 0.6358639595564455
+  rhythmicContrast: 0.49313174933195114
+purpose: []
